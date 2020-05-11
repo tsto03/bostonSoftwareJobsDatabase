@@ -1,0 +1,28 @@
+{
+  "name": "bostonSoftwareJobsDatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "companies.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsto03/bostonSoftwareJobsDatabase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsto03/bostonSoftwareJobsDatabase/issues"
+  },
+  "homepage": "https://github.com/tsto03/bostonSoftwareJobsDatabase#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
